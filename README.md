@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth Parashar</h1>
-<h3 align="center">A passionate ML and core developer from India</h3>
+<h3 align="center">A passionate core and ML developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth195&label=Profile%20views&color=0e75b6&style=flat" alt="parth195" /> </p>
 
-- 🌱 I’m currently learning **about NLP and LLMs.**
+- 🌱 I’m currently learning **about NLP,LLMs and JS.**
 
 - 📫 How to reach me **parth.parashar27@gmail.com**
 
